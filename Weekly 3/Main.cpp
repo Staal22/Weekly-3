@@ -58,8 +58,8 @@ do
 	do
 	{
 
-		std::cout << "The correct number is : " << rightNumber << "\n"; //Allows you to see the correct number *for debugging purposes*
-		std::cout << "Gues a number: ";
+		//std::cout << "The correct number is : " << rightNumber << "\n"; //Allows you to see the correct number *for debugging purposes*
+		std::cout << "Guess a number: ";
 		std::cin >> guess;
 
 		system("cls");
